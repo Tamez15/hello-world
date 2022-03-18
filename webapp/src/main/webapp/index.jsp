@@ -1,2 +1,2 @@
-<h1> Demo End-End Pipeline Project </h1>
+<h1> End-End Pipeline Project </h1>
 
